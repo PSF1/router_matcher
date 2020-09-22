@@ -17,5 +17,6 @@
         "psr-4": {
             "Psf1\\RouterMatcher\\": "src/"
         }
-    }
+    },
+    "target-dir": "psf1/router-matcher"
 }
