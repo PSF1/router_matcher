@@ -2,7 +2,7 @@
     "name": "psf1/router-matcher",
     "type": "library",
     "description": "URL router patterns tool",
-    "license": "Apache-2.0 License",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "PSF1",
