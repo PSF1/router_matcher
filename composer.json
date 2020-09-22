@@ -1,5 +1,5 @@
 {
-    "name": "psf1/router-matcher",
+    "name": "psf1/router_matcher",
     "type": "library",
     "description": "URL router patterns tool",
     "license": "Apache-2.0",
@@ -18,5 +18,4 @@
             "Psf1\\RouterMatcher\\": "src/"
         }
     },
-    "target-dir": "psf1/router-matcher"
 }
