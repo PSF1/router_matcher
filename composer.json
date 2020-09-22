@@ -1,4 +1,21 @@
 {
     "name": "psf1/router_matcher",
-    "require": {}
+    "type": "library",
+    "description": "URL router patterns tool",
+    "license": "Apache-2.0 License",
+    "authors": [
+        {
+            "name": "PSF1",
+            "email": "aaaaa976@gmail.com",
+            "homepage": "https://www.drupal.org/u/psf_"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Psf1\\RouterMatcher\\": "src/"
+        }
+    }
 }
